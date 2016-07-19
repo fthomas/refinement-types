@@ -1,5 +1,7 @@
 # Refinement Types
 
+http://noamz.org/oplss16/refinements-notes.pdf
+
 ## Haskell
 
 * Niki Vazou, Eric L. Seidel, Ranjit Jhala, Dimitrios Vytiniotis, Simon Peyton-Jones. 2014. [Refinement Types For Haskell](http://goto.ucsd.edu/~nvazou/refinement_types_for_haskell.pdf). [doi:10.1145/2692915.2628161](http://dx.doi.org/10.1145/2692915.2628161)
